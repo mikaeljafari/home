@@ -42,7 +42,7 @@ const about = {
   imageLink: require("../editable-stuff/me.png"),
   imageSize: 375,
   message:
-    "My name is Mikael Jafari. I am currently in my third year of the Computer Science and Engineering programme at KTH Royal Institute of Technology. In my sparetime I enjoy learning new things, such as new cooking recipies or furthering my knowledge of programming.",
+    "My name is Mikael Jafari. I am currently in my third year of the Computer Science and Engineering programme at KTH Royal Institute of Technology. In my sparetime I enjoy furthering my knowledge in areas of interest such as decentralized finance and programming.",
   resume: require("../editable-stuff/resume.pdf"),
 };
 
@@ -114,8 +114,8 @@ const getInTouch = {
   show: true,
   heading: "Get In Touch",
   message:
-    "I'm currently looking for any opportunities in tech! If you know of any positions available (even internships), if you have any questions, or if you just want to say hi, please feel free to email me at",
-  email: "mikael.jafari (at) gmail.com",
+    "I'm currently looking for any opportunities in tech! If you know of any positions available (even internships), if you have any questions, or if you just want to say hi, please feel free to email me at mikael.jafari (at) gmail.com",
+  // email: "mikael.jafari (at) gmail.com",
 };
 
 // Blog SECTION
