@@ -9,7 +9,7 @@ const mainBody = {
   firstName: "Mikael",
   middleName: "",
   lastName: "Jafari",
-  message: " Today's challenge is tomorrows memory. ",
+  message: " Today's challenge is tomorrow's memory. ",
   icons: [
     {
       image: "fa-github",
@@ -114,8 +114,8 @@ const getInTouch = {
   show: true,
   heading: "Get In Touch",
   message:
-    "I'm currently looking for full-time Software Engineering opportunities! If you know of any positions available, if you have any questions, or if you just want to say hi, please feel free to email me at",
-  email: "mikael.jafari@gmail.com",
+    "I'm currently looking for any opportunities in tech! If you know of any positions available (even internships), if you have any questions, or if you just want to say hi, please feel free to email me at",
+  email: "mikael.jafari (at) gmail.com",
 };
 
 // Blog SECTION
